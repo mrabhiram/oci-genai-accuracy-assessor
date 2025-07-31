@@ -33,6 +33,7 @@ python accuracy_checker.py --model grok3 --prompt "What is the capital of France
 - `llama4` - Llama 4
 - `cohere` - Cohere
 - `llama33-70b` - Llama 3.3 70B
+- This tool has the above model endpoints and API request formats set. Had to hardcode the endpoints since the API request formats are different for each model. As OCI GenAI service gets more models, we can update this list. And all of the model endpoints point to chicago region. 
 
 ### Example Output
 
