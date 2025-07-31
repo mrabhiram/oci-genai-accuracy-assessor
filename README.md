@@ -38,7 +38,7 @@ python accuracy_checker.py --model grok3 --prompt "What is the capital of France
 
 ```
 ================================================================================
-🧠 COMPREHENSIVE OCI GENERATIVE AI ASSESSMENT
+ COMPREHENSIVE OCI GENERATIVE AI ASSESSMENT
 ================================================================================
  Generating response using Grok 3 (GENERIC) for prompt: What is the capital of France?...
  Response generated successfully
