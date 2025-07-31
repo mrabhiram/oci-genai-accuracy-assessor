@@ -494,7 +494,7 @@ class OCIGenAIAssessor:
         """Perform comprehensive assessment with OCI GenAI"""
         
         print("\n" + "="*80)
-        print("🧠 COMPREHENSIVE OCI GENERATIVE AI ASSESSMENT")
+        print(" COMPREHENSIVE OCI GENERATIVE AI ASSESSMENT")
         print("="*80)
         
         # Generate response with metrics
