@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.91,
+  "components": {
+    "factual_accuracy": 2.65,
+    "readability": 3.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.59,
+    "readability": 0.72,
+    "speed": 0.6
+  },
+  "response_text": "For 2025, the maximum 401(k) contribution limits are set by the IRS and include both the base limit and catch-up contributions for individuals aged 50 and older. Here's how it applies to a 52-year-old:\n\n- **Base Contribution Limit**: The standard 401(k) contribution limit for 2025 is $23,500 (assuming it follows the trend of inflation adjustments; the IRS typically announces the exact figure late in the prior year. For reference, it was $23,000 in 2024).\n- **Catch-Up Contribution**: Individuals aged 50 and older by the end of the calendar year are eligible for an additional catch-up contribution. For 2025, this is expected to remain at $7,500 (as it was in 2024, pending IRS confirmation).\n- **Total Contribution Limit for a 52-Year-Old**: Combining the base limit and catch-up contribution, a 52-year-old can contribute up to $31,000 to their 401(k) in 2025 ($23,500 + $7,500), assuming the limits are unchanged or adjusted minimally.\n\n**How Catch-Up Contributions Work**: The catch-up contribution is an extra amount that individuals aged 50 and older can contribute beyond the standard limit to help them save more for retirement as they approach retirement age. This amount is not subject to the base limit and is designed to allow older workers to \"catch up\" on their retirement savings. You must be at least 50 by December 31 of the contribution year to qualify.\n\n**Additional Notes**:\n- These figures apply to employee contributions only. Employer contributions (e.g., matching) are subject to a separate overall limit, which for 2025 is expected to be around $70,500 (or 100% of compensation, whichever is less), including both employee and employer contributions.\n- If the IRS announces updated limits for 2025 (typically in late 2024), the exact numbers may differ slightly due to inflation adjustments.\n- Contributions must be made by December 31, 2025, to count for the 2025 tax year (unlike IRAs, there\u2019s no post-tax-year deadline for 401(k) contributions).\n\nIf you\u2019re planning your contributions, check with your plan administrator to confirm your eligibility and ensure your payroll deductions align with these limits. You can also refer to the IRS website (irs.gov) for the official announcement of 2025 limits later in 2024.",
+  "performance_metrics": {
+    "api_response_time": 17.843,
+    "total_response_time": 17.843,
+    "input_tokens": 29,
+    "output_tokens": 562,
+    "total_tokens": 591,
+    "tokens_per_second": 33.12,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:29:20.641685"
+  },
+  "success": true
+}

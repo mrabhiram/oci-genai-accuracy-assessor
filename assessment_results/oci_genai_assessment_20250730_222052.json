@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.43,
+  "components": {
+    "factual_accuracy": 1.85,
+    "readability": 3.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.11,
+    "readability": 0.72,
+    "speed": 0.6
+  },
+  "response_text": "Based on the patient's symptoms, the top 3 possible diagnoses are:\n\n1. **Tuberculosis (TB)**: The combination of persistent cough, night sweats, and unintentional weight loss is a classic presentation of pulmonary TB. TB is a bacterial infection that typically affects the lungs, but can also affect other parts of the body. The cough is often chronic and productive, and night sweats are a common symptom due to the body's immune response to the infection. Unintentional weight loss is also a common symptom, as the body's energy is diverted to fight the infection.\n\n2. **Lung Cancer**: Lung cancer can also present with a persistent cough, night sweats, and unintentional weight loss. The cough may be dry or productive, and can be accompanied by other symptoms such as chest pain, shortness of breath, or hemoptysis (coughing up blood). Night sweats can occur due to the body's response to the tumor, and unintentional weight loss is a common symptom as the tumor grows and metastasizes. Lung cancer is a significant concern in patients over 40 years old, especially those with a history of smoking.\n\n3. **Sarcoidosis**: Sarcoidosis is a systemic inflammatory disease that can affect multiple organs, including the lungs. It can present with a persistent cough, night sweats, and unintentional weight loss, as well as other symptoms such as fatigue, shortness of breath, and chest pain. Sarcoidosis can cause granulomas to form in the lungs, which can lead to a chronic cough and other respiratory symptoms. The disease can also cause systemic symptoms such as fever, night sweats, and weight loss due to the body's immune response.\n\nSupporting reasoning for these diagnoses includes:\n\n* The combination of symptoms: The combination of a persistent cough, night sweats, and unintentional weight loss is a red flag for a serious underlying condition such as TB, lung cancer, or sarcoidosis.\n* Age and demographics: The patient's age (45 years old) and potential exposure history (e.g. smoking, travel, or occupational exposure) increase the likelihood of these diagnoses.\n* Clinical presentation: The presence of a chronic cough, night sweats, and unintentional weight loss suggests a systemic or pulmonary condition that requires further evaluation and testing to determine the underlying cause.\n\nFurther evaluation and testing, such as chest imaging (e.g. X-ray or CT scan), sputum analysis, and biopsies, would be necessary to confirm the diagnosis and guide treatment.",
+  "performance_metrics": {
+    "api_response_time": 17.897,
+    "total_response_time": 17.897,
+    "input_tokens": 40,
+    "output_tokens": 618,
+    "total_tokens": 658,
+    "tokens_per_second": 36.77,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:20:52.549818"
+  },
+  "success": true
+}

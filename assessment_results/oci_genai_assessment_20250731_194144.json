@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.93,
+  "components": {
+    "factual_accuracy": 3.02,
+    "readability": 2.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.81,
+    "readability": 0.52,
+    "speed": 0.6
+  },
+  "response_text": "Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems capable of learning from data, identifying patterns, and making decisions with minimal human intervention. Instead of explicitly programming a machine to perform a specific task, machine learning algorithms use data to train models that can improve their performance over time.\n\n### Key Concepts in Machine Learning:\n1. **Data**: The foundation of machine learning. Data can be structured (e.g., tables) or unstructured (e.g., images, text).\n2. **Model**: A mathematical representation of a real-world process. Models are trained using data to make predictions or decisions.\n3. **Training**: The process of feeding data into a model so it can learn patterns and relationships.\n4. **Inference**: Using a trained model to make predictions or decisions on new, unseen data.\n5. **Features**: Input variables used by the model to make predictions.\n6. **Labels**: The output or target variable the model is trying to predict (in supervised learning).\n\n### Types of Machine Learning:\n1. **Supervised Learning**: The model is trained on labeled data, where the input data is paired with the correct output. Examples include classification (e.g., spam detection) and regression (e.g., predicting house prices).\n2. **Unsupervised Learning**: The model is trained on unlabeled data and must find patterns or structures on its own. Examples include clustering (e.g., customer segmentation) and dimensionality reduction.\n3. **Semi-Supervised Learning**: Combines a small amount of labeled data with a large amount of unlabeled data during training.\n4. **Reinforcement Learning**: The model learns by interacting with an environment, receiving rewards or penalties for actions, and aims to maximize cumulative reward. Examples include game-playing AI and robotics.\n\n### Common Algorithms:\n- **Linear Regression**: For predicting continuous values.\n- **Decision Trees**: For classification and regression tasks.\n- **Support Vector Machines (SVM)**: For classification tasks.\n- **Neural Networks**: For complex tasks like image recognition and natural language processing.\n- **K-Means Clustering**: For unsupervised clustering tasks.\n\n### Applications of Machine Learning:\n- **Healthcare**: Disease prediction, drug discovery.\n- **Finance**: Fraud detection, algorithmic trading.\n- **Retail**: Recommendation systems, inventory management.\n- **Transportation**: Autonomous vehicles, route optimization.\n- **Natural Language Processing (NLP)**: Chatbots, language translation.\n- **Computer Vision**: Facial recognition, object detection.\n\nMachine learning is a rapidly evolving field with applications across industries, driving innovation and automation in ways that were previously unimaginable.",
+  "performance_metrics": {
+    "api_response_time": 15.613,
+    "total_response_time": 15.613,
+    "input_tokens": 6,
+    "output_tokens": 694,
+    "total_tokens": 700,
+    "tokens_per_second": 44.83,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T19:41:44.470964"
+  },
+  "success": true
+}

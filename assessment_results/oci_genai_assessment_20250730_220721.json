@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.03,
+  "components": {
+    "factual_accuracy": 3.07,
+    "readability": 3.2,
+    "speed": 2.75
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.84,
+    "readability": 0.64,
+    "speed": 0.55
+  },
+  "response_text": "AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence, such as:\n\n1. **Learning**: AI systems can learn from data and improve their performance over time.\n2. **Problem-solving**: AI can analyze complex problems and provide solutions.\n3. **Reasoning**: AI can make decisions based on logic and rules.\n4. **Perception**: AI can interpret and understand data from sensors, images, and other sources.\n5. **Natural Language Processing (NLP)**: AI can understand and generate human language.\n\nAI involves various techniques, including:\n\n1. **Machine Learning (ML)**: A subset of AI that focuses on training algorithms to learn from data.\n2. **Deep Learning (DL)**: A type of ML that uses neural networks to analyze complex data.\n3. **Rule-based Systems**: AI systems that use predefined rules to make decisions.\n\nAI has many applications across industries, such as:\n\n1. **Virtual assistants** (e.g., Siri, Alexa)\n2. **Image and speech recognition**\n3. **Predictive maintenance** (e.g., predicting equipment failures)\n4. **Healthcare** (e.g., medical diagnosis, personalized medicine)\n5. **Autonomous vehicles**\n6. **Customer service** (e.g., chatbots)\n\nThe goals of AI research include:\n\n1. **Improving efficiency**\n2. **Enhancing decision-making**\n3. **Creating intelligent systems**\n\nAI is transforming various aspects of our lives, and its development continues to evolve rapidly.\n\nIs there a specific aspect of AI you'd like to know more about?",
+  "performance_metrics": {
+    "api_response_time": 14.713,
+    "total_response_time": 14.713,
+    "input_tokens": 2,
+    "output_tokens": 382,
+    "total_tokens": 384,
+    "tokens_per_second": 26.1,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyayjawvuonfkw2ua4bob4rlnnlhs522pafbglivtwlfzta",
+    "timestamp": "2025-07-30T22:07:21.843620"
+  },
+  "success": true
+}

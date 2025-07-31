@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.0,
+  "components": {
+    "factual_accuracy": 1.13,
+    "readability": 3.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 0.68,
+    "readability": 0.72,
+    "speed": 0.6
+  },
+  "response_text": "CAR there! Below is a list of ongoing Phase III clinical trials for CAR-T (Chimeric Antigen Receptor T-cell) therapy in multiple myeloma, along with their trial IDs. These trials are focused on evaluating the efficacy and safety of CAR-T therapies, often targeting B-cell maturation antigen (BCMA), a common target in multiple myeloma. The information is based on data available from clinical trial registries like ClinicalTrials.gov and other public sources as of the latest updates (October 2023). Note that trial statuses and details may change over time, so I recommend checking the specific trial on ClinicalTrials.gov for the most current information.\n\n1. **KarMMa-3 Trial**  \n   - **Trial ID**: NCT03651128  \n   - **Sponsor**: Bristol Myers Squibb (BMS)  \n   - **Therapy**: Idecabtagene Vicleucel (Ide-cel, also known as Abecma)  \n   - **Description**: This trial compares Ide-cel to standard regimens in patients with relapsed or refractory multiple myeloma (RRMM) who have received 2-4 prior lines of therapy. The primary endpoint is progression-free survival (PFS).  \n   - **Status**: Active, not recruiting (as of latest updates, but check for enrollment reopenings or follow-up data).\n\n2. **CARTITUDE-4 Trial**  \n   - **Trial ID**: NCT04181827  \n   - **Sponsor**: Janssen Research & Development, LLC  \n   - **Therapy**: Ciltacabtagene Autoleucel (Cilta-cel, also known as Carvykti)  \n   - **Description**: This study evaluates Cilta-cel versus standard-of-care therapies (like pomalidomide, bortezomib, and dexamethasone or daratumumab, pomalidomide, and dexamethasone) in patients with RRMM who have received 1-3 prior lines of therapy. The primary endpoint is PFS.  \n   - **Status**: Active, not recruiting (verify current status on ClinicalTrials.gov for updates on results or follow-up).\n\n3. **IMMAGINE-1 Trial**  \n   - **Trial ID**: NCT05396885  \n   - **Sponsor**: IASO Biotherapeutics Co., Ltd.  \n   - **Therapy**: Equecabtagene Autoleucel (CT103A)  \n   - **Description**: This trial assesses the efficacy and safety of CT103A, a BCMA-targeted CAR-T therapy, in patients with RRMM who have received at least 3 prior lines of therapy. It\u2019s a global, multicenter study with primary endpoints focused on overall response rate (ORR) and safety.  \n   - **Status**: Recruiting (as of the latest data; confirm current enrollment availability).\n\nThese are some of the prominent Phase III trials for CAR-T therapies in multiple myeloma. There may be additional trials or sub-studies under different identifiers, especially as new CAR-T constructs or combination therapies emerge. Here are a few notes:\n\n- Most of these therapies target BCMA, as it\u2019s a key antigen expressed on myeloma cells.\n- Trials often focus on RRMM patients due to the high unmet need in this population.\n- Enrollment status can vary by region or site, so if you\u2019re looking to participate, reaching out to the trial sponsor or checking specific site details on ClinicalTrials.gov is a good step.\n\nIf you\u2019re looking for trials in a specific country, for a specific CAR-T product, or with particular eligibility criteria, let me know, and I can help narrow it down further! Also, if you want details on Phase I or II trials or emerging CAR-T therapies, I can dig into those too.",
+  "performance_metrics": {
+    "api_response_time": 17.494,
+    "total_response_time": 17.494,
+    "input_tokens": 23,
+    "output_tokens": 814,
+    "total_tokens": 837,
+    "tokens_per_second": 47.84,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:27:27.221781"
+  },
+  "success": true
+}

@@ -1,0 +1,25 @@
+{
+  "overall_score": 4.85,
+  "components": {
+    "factual_accuracy": 5.0,
+    "readability": 5.0,
+    "speed": 4.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 3.0,
+    "readability": 1.0,
+    "speed": 0.85
+  },
+  "response_text": "The capital of Japan is Tokyo.",
+  "performance_metrics": {
+    "api_response_time": 0.628,
+    "total_response_time": 0.628,
+    "input_tokens": 7,
+    "output_tokens": 7,
+    "total_tokens": 14,
+    "tokens_per_second": 22.29,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-31T19:46:09.279975"
+  },
+  "success": true
+}

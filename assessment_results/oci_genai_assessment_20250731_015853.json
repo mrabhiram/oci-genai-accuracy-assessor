@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.47,
+  "components": {
+    "factual_accuracy": 2.26,
+    "readability": 2.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.35,
+    "readability": 0.52,
+    "speed": 0.6
+  },
+  "response_text": "Yes, a 68-year-old individual enrolled in Medicare Part B may be eligible for annual lung cancer screening with low-dose computed tomography (LDCT), according to the Medicare coverage policy.\n\n**Medicare Coverage for Lung Cancer Screening:**\n\nThe Centers for Medicare & Medicaid Services (CMS) established coverage for lung cancer screening with LDCT for eligible beneficiaries in 2015. The coverage is based on the United States Preventive Services Task Force (USPSTF) recommendations.\n\n**Eligibility Criteria:**\n\nAccording to the CMS National Coverage Determination (NCD) for Lung Cancer Screening with Low Dose Computed Tomography (LDCT) (NCD 210.4), the following criteria must be met for Medicare coverage:\n\n1. **Age**: 55 to 77 years old (as of the date of the screening).\n2. **Smoking History**: A minimum of 30 pack-years (e.g., 1 pack per day for 30 years or 2 packs per day for 15 years).\n3. **Current Smoker or Quit Recently**: The individual must be a current smoker or have quit smoking within the last 15 years.\n4. **Asymptomatic**: No signs or symptoms of lung cancer.\n5. **Referral**: A written order from a physician or qualified non-physician practitioner.\n\n**Policy Sources:**\n\n1. **CMS National Coverage Determination (NCD) for Lung Cancer Screening with Low Dose Computed Tomography (LDCT)**: NCD 210.4, available at [CMS.gov](https://www.cms.gov/medicare-coverage-database/details/ncd-details.aspx?NCDId=357&ncdver=1&bc=AAQAAAAAAAAA%3d%3d&).\n2. **Medicare Learning Network (MLN) Matters Article**: \"Lung Cancer Screening with Low Dose Computed Tomography (LDCT)\" (MLN Matters SE1506), available at [CMS.gov](https://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/Downloads/SE1506.pdf).\n3. **United States Preventive Services Task Force (USPSTF) Recommendation**: \"Lung Cancer: Screening\", available at [USPSTF.org](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening).\n\nIn summary, a 68-year-old individual on Medicare Part B who meets the smoking history, current smoking status, and asymptomatic criteria may be eligible for annual lung cancer screening with low-dose CT, as outlined in the CMS NCD and USPSTF recommendations.",
+  "performance_metrics": {
+    "api_response_time": 17.096,
+    "total_response_time": 17.096,
+    "input_tokens": 29,
+    "output_tokens": 556,
+    "total_tokens": 585,
+    "tokens_per_second": 34.22,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:58:53.852658"
+  },
+  "success": true
+}

@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.03,
+  "components": {
+    "factual_accuracy": 2.77,
+    "readability": 4.6,
+    "speed": 2.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.66,
+    "readability": 0.92,
+    "speed": 0.45
+  },
+  "response_text": "**Discharge Instructions After Gallbladder Removal Surgery**\n\nHello! Now that you're going home after your surgery to remove your gallbladder, here\u2019s what you need to know to take care of yourself.\n\n**1. Manage Your Pain**  \n- Take your pain medicine as your doctor tells you. It\u2019s okay to take acetaminophen (Tylenol) unless your doctor says no.  \n- Avoid ibuprofen (like Advil or Motrin) unless your doctor says it\u2019s okay.  \n\n**2. Care for Your Incisions**  \n- Keep your incision areas clean and dry. You can shower, but don\u2019t soak in a tub or swim for 2 weeks.  \n- Watch for redness, swelling, or pus around your incisions. Call your doctor if you see any of these.  \n\n**3. Eat Smart**  \n- Start with light, easy-to-digest foods like toast, rice, bananas, and yogurt.  \n- Avoid greasy, fatty, or spicy foods for a few weeks\u2014they can upset your stomach.  \n- Since you have diabetes, keep track of your blood sugar and eat balanced meals.  \n\n**4. Stay Active, But Take It Easy**  \n- Walk a little each day to help your body heal. Start slow and do more as you feel stronger.  \n- Don\u2019t lift anything heavy (like grocery bags or laundry baskets) for 2 weeks.  \n- Avoid strenuous activities like mowing the lawn or exercising hard until your doctor says it\u2019s okay.  \n\n**5. Watch for Problems**  \nCall your doctor right away if you notice:  \n- Fever (temperature over 100.4\u00b0F or 38\u00b0C)  \n- Severe pain that doesn\u2019t get better with medicine  \n- Yellowing of your skin or eyes  \n- Trouble breathing or chest pain  \n- Signs of infection (redness, swelling, or pus at the incision sites)  \n\n**6. Manage Your Diabetes**  \n- Check your blood sugar as usual and follow your diabetes care plan.  \n- Let your doctor know if your blood sugar levels are higher or lower than normal.  \n\n**7. Follow Up with Your Doctor**  \n- Schedule a follow-up appointment with your surgeon in 1-2 weeks.  \n- Keep seeing your primary care doctor for diabetes management.  \n\n**8. Rest and Recover**  \n- Get plenty of sleep at night and take short naps during the day if you need them.  \n- Give your body time to heal\u2014it may take a few weeks to feel back to normal.  \n\nIf you have any questions or concerns, don\u2019t hesitate to call your doctor\u2019s office. Take care and get well soon!  \n\n**Phone Numbers to Keep Handy:**  \n- Your surgeon\u2019s office: [Insert number]  \n- Your primary care doctor: [Insert number]  \n- Emergency (if severe pain or other urgent issues): 911  \n\nFeel better soon!",
+  "performance_metrics": {
+    "api_response_time": 31.155,
+    "total_response_time": 31.155,
+    "input_tokens": 42,
+    "output_tokens": 613,
+    "total_tokens": 655,
+    "tokens_per_second": 21.02,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:51:44.617624"
+  },
+  "success": true
+}

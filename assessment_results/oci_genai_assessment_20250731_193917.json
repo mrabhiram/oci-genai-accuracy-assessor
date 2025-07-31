@@ -1,0 +1,14 @@
+{
+  "overall_score": 0.0,
+  "error": "(\"Invalid URL 'ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva/20231130/actions/chat': No scheme supplied. Perhaps you meant http://ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva/20231130/actions/chat?\", 'Request Endpoint: POST ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva/20231130/actions/chat See https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdk_troubleshooting.htm for help troubleshooting this error, or contact support and provide this full error message.')",
+  "metrics": {
+    "api_response_time": 0.0007796287536621094,
+    "total_response_time": 0.0007796287536621094,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "tokens_per_second": 0,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyayjawvuonfkw2ua4bob4rlnnlhs522pafbglivtwlfzta",
+    "timestamp": "2025-07-31T19:39:17.885819"
+  }
+}

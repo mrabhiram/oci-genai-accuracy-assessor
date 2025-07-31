@@ -1,0 +1,10 @@
+{
+  "apiFormat": "COHERE",
+  "message": "Hello, how are you?",
+  "maxTokens": 4000,
+  "temperature": 1.0,
+  "frequencyPenalty": 0,
+  "presencePenalty": 0,
+  "topP": 1.0,
+  "topK": 0
+}

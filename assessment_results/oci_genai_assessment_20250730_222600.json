@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.04,
+  "components": {
+    "factual_accuracy": 2.86,
+    "readability": 2.6,
+    "speed": 4.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.72,
+    "readability": 0.52,
+    "speed": 0.8
+  },
+  "response_text": "The 2024 American Heart Association (AHA) guidelines for hypertension management emphasize a comprehensive approach to blood pressure control. For first-line pharmacological treatment, the guidelines recommend four main classes of medications: thiazide diuretics, ACE inhibitors, angiotensin receptor blockers (ARBs), and calcium channel blockers. These are chosen based on patient-specific factors like comorbidities (e.g., diabetes or kidney disease) and race/ethnicity, with combination therapy often advised for those with significantly elevated blood pressure (\u226520/10 mmHg above target).\n\nLifestyle modifications are a cornerstone of management and are recommended for all patients. Key changes include adopting a heart-healthy diet (e.g., DASH diet) rich in fruits, vegetables, and low-fat dairy while reducing sodium intake to less than 2,300 mg/day (ideally 1,500 mg/day). Regular physical activity (at least 150 minutes of moderate-intensity aerobic exercise weekly), weight loss for overweight individuals (aiming for a BMI <25 kg/m\u00b2), limiting alcohol consumption, and smoking cessation are strongly encouraged. Stress management and adequate sleep are also highlighted as supportive measures. These non-pharmacological interventions aim to prevent or delay the need for medication and enhance overall cardiovascular health.",
+  "performance_metrics": {
+    "api_response_time": 4.417,
+    "total_response_time": 4.417,
+    "input_tokens": 43,
+    "output_tokens": 333,
+    "total_tokens": 376,
+    "tokens_per_second": 85.13,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:26:00.337612"
+  },
+  "success": true
+}

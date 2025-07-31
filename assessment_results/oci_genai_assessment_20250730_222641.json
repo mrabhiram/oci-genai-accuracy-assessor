@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.4,
+  "components": {
+    "factual_accuracy": 1.71,
+    "readability": 3.6,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.03,
+    "readability": 0.72,
+    "speed": 0.65
+  },
+  "response_text": "Based on the symptoms of persistent cough, night sweats, and unintentional weight loss in a 45-year-old patient, the top three possible diagnoses, along with supporting reasoning, are as follows:\n\n1. **Tuberculosis (TB)**  \n   - **Reasoning**: Tuberculosis is a classic consideration for a patient presenting with a persistent cough, night sweats, and weight loss, often referred to as \"constitutional symptoms.\" TB is caused by *Mycobacterium tuberculosis* and commonly affects the lungs (pulmonary TB), leading to chronic cough, which may be productive with hemoptysis in advanced cases. Night sweats and weight loss are systemic manifestations due to the chronic inflammatory response and increased metabolic demand. This diagnosis is particularly concerning in individuals with risk factors such as living in or traveling to endemic areas, immunosuppression (e.g., HIV), or close contact with infected individuals. Further evaluation with a chest X-ray (looking for upper lobe infiltrates or cavitation) and sputum culture or acid-fast bacilli (AFB) smear is warranted.\n\n2. **Lung Cancer**  \n   - **Reasoning**: Lung cancer, particularly non-small cell lung cancer (NSCLC) or small cell lung cancer (SCLC), can present with a chronic cough, often persistent and unresponsive to typical treatments, along with unintentional weight loss due to cancer cachexia. Night sweats may occur as a paraneoplastic symptom or due to systemic inflammation. This diagnosis is more likely in patients with a history of smoking, exposure to carcinogens (e.g., asbestos), or a family history of lung cancer. A chest X-ray or CT scan may reveal a mass or hilar lymphadenopathy, and further workup with biopsy or bronchoscopy may be needed. The patient's age (45 years) places them in a demographic where lung cancer risk increases, especially with relevant risk factors.\n\n3. **Lymphoma (e.g., Hodgkin or Non-Hodgkin Lymphoma)**  \n   - **Reasoning**: Lymphomas can present with systemic B symptoms, which include night sweats, fever, and unintentional weight loss (defined as >10% of body weight over 6 months). A persistent cough may result from mediastinal lymphadenopathy compressing airways or from pulmonary involvement. Hodgkin lymphoma, in particular, is associated with these systemic symptoms and often affects younger adults but can occur at any age, including 45 years. Physical examination may reveal lymphadenopathy, and imaging (e.g., CT scan) or lymph node biopsy would be key to confirming this diagnosis. This should be considered if infectious causes like TB are ruled out or if there are other signs such as palpable lymph nodes or hepatosplenomegaly.\n\n**Additional Notes**: While these are the top three differential diagnoses, other conditions such as chronic obstructive pulmonary disease (COPD) with exacerbations, sarcoidosis, or hyperthyroidism could also be considered, though they are less likely to fully explain the constellation of symptoms. A detailed history (including smoking, travel, family history, and occupational exposures), physical examination, and appropriate diagnostic testing (e.g., imaging, sputum analysis, or blood tests) are essential to narrow down the diagnosis. Immediate attention to TB is critical due to its infectious nature and public health implications.",
+  "performance_metrics": {
+    "api_response_time": 12.045,
+    "total_response_time": 12.045,
+    "input_tokens": 40,
+    "output_tokens": 824,
+    "total_tokens": 864,
+    "tokens_per_second": 71.73,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:26:41.105245"
+  },
+  "success": true
+}

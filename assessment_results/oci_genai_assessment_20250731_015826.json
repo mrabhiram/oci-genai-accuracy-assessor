@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.33,
+  "components": {
+    "factual_accuracy": 1.82,
+    "readability": 3.2,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.09,
+    "readability": 0.64,
+    "speed": 0.6
+  },
+  "response_text": "Here are the top 3 possible diagnoses for a 45-year-old patient presenting with persistent cough, night sweats, and unintentional weight loss, along with supporting reasoning:\n\n**1. Tuberculosis (TB)**\n * **Reasoning:** This classic triad of symptoms (cough, night sweats, weight loss) is highly suggestive of TB, especially in populations with risk factors. TB is caused by Mycobacterium tuberculosis and can infect the lungs (most common) or other parts of the body. \n * **Supporting Features:**  Exposure to someone with TB, recent travel to high-prevalence areas, immunosuppression (e.g., HIV), or a positive PPD skin test or interferon-gamma release assay (IGRA) would strengthen this diagnosis.\n * **Further Evaluation:**  Chest X-ray or CT scan, sputum cultures for acid-fast bacilli (AFB), and potentially a tuberculin skin test (PPD) or IGRA.\n\n**2. Lung Cancer**\n * **Reasoning:** Persistent cough, especially if accompanied by blood-tinged sputum, along with weight loss and night sweats, can be indicative of lung cancer. Night sweats are a common paraneoplastic symptom (indirect effects of cancer on the body).\n * **Supporting Features:** Smoking history, age over 40, exposure to environmental carcinogens (asbestos, radon), or a family history of lung cancer increase suspicion.\n * **Further Evaluation:** Chest X-ray or CT scan, sputum cytology, and potentially biopsy of any suspicious masses.\n\n**3. Sarcoidosis**\n * **Reasoning:** Sarcoidosis is an inflammatory disease characterized by the formation of granulomas in various organs, most commonly the lungs and lymph nodes. It can present with cough, fatigue, weight loss, and night sweats.\n * **Supporting Features:**  Bilateral hilar lymphadenopathy (enlarged lymph nodes in the lungs) on chest X-ray, elevated angiotensin-converting enzyme (ACE) levels, and erythema nodosum (skin rash) are supportive findings.\n * **Further Evaluation:** Chest X-ray or CT scan, pulmonary function tests, and potentially biopsy of involved tissue.\n\n**Important Considerations:**\n * **Other Possibilities:**  While less likely, other conditions like lymphoma, HIV/AIDS, fungal infections (e.g., histoplasmosis), or other granulomatous diseases should be considered based on the patient's history, risk factors, and physical examination findings.\n * **Further History and Examination:** A thorough medical history, including travel history, occupational exposures, and social history (smoking, alcohol use), along with a comprehensive physical examination, are crucial for narrowing down the differential diagnosis.\n * **Diagnostic Tests:**  The specific tests ordered will depend on the suspected diagnosis and the patient's individual presentation. \n\n**Disclaimer:** I am an AI and cannot provide medical advice. This information is for educational purposes only and should not be interpreted as a diagnosis or treatment plan. The patient needs to be evaluated by a qualified healthcare professional for an accurate diagnosis and appropriate management.",
+  "performance_metrics": {
+    "api_response_time": 17.504,
+    "total_response_time": 17.504,
+    "input_tokens": 40,
+    "output_tokens": 752,
+    "total_tokens": 792,
+    "tokens_per_second": 45.25,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:58:26.418592"
+  },
+  "success": true
+}

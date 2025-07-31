@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.05,
+  "components": {
+    "factual_accuracy": 3.05,
+    "readability": 3.6,
+    "speed": 2.5
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.83,
+    "readability": 0.72,
+    "speed": 0.5
+  },
+  "response_text": "AI, or Artificial Intelligence, refers to the simulation of human intelligence in machines that are programmed to think, learn, and make decisions like humans. These systems are designed to perform tasks that typically require human intelligence, such as understanding natural language, recognizing patterns, solving problems, and making decisions.\n\nAI can be broadly categorized into two types:\n\n1. **Narrow AI (or Weak AI):** This type of AI is designed to perform a specific task or a set of tasks. Examples include voice assistants like Siri or Alexa, recommendation systems on platforms like Netflix or Amazon, and image recognition software. Narrow AI operates within a limited context and does not possess general intelligence.\n\n2. **General AI (or Strong AI):** This refers to machines that possess the ability to understand, learn, and apply knowledge across a wide range of tasks at a level equivalent to or beyond human capabilities. General AI remains largely theoretical and is a subject of ongoing research and debate.\n\nAI systems are typically built using various techniques and technologies, including:\n\n- **Machine Learning (ML):** A subset of AI that involves training algorithms on data to improve their performance on a specific task over time. Common ML techniques include supervised learning, unsupervised learning, and reinforcement learning.\n  \n- **Deep Learning:** A subfield of machine learning that uses neural networks with many layers (hence \"deep\") to model complex patterns in large amounts of data. Deep learning has been particularly successful in areas like image and speech recognition.\n\n- **Natural Language Processing (NLP):** Focuses on enabling machines to understand, interpret, and generate human language in a way that is both meaningful and useful.\n\n- **Computer Vision:** Involves teaching machines to interpret and make decisions based on visual data from the world, such as images and videos.\n\n- **Robotics:** Combines AI with physical machines to perform tasks in the real world, often involving sensors, actuators, and control systems.\n\nAI has a wide range of applications across various industries, including healthcare, finance, transportation, education, and entertainment. Its potential to transform society is immense, but it also raises important ethical, social, and economic questions that need to be addressed.",
+  "performance_metrics": {
+    "api_response_time": 28.914,
+    "total_response_time": 28.914,
+    "input_tokens": 2,
+    "output_tokens": 591,
+    "total_tokens": 593,
+    "tokens_per_second": 20.51,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-30T22:08:21.397924"
+  },
+  "success": true
+}

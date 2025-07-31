@@ -1,0 +1,25 @@
+{
+  "overall_score": 4.65,
+  "components": {
+    "factual_accuracy": 5.0,
+    "readability": 5.0,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 3.0,
+    "readability": 1.0,
+    "speed": 0.65
+  },
+  "response_text": "The capital of France is Paris.",
+  "performance_metrics": {
+    "api_response_time": 1.818,
+    "total_response_time": 1.818,
+    "input_tokens": 7,
+    "output_tokens": 7,
+    "total_tokens": 14,
+    "tokens_per_second": 7.7,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-31T19:33:57.322035"
+  },
+  "success": true
+}

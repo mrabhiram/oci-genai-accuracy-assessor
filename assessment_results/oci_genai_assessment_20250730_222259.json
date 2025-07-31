@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.77,
+  "components": {
+    "factual_accuracy": 2.2,
+    "readability": 4.0,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.32,
+    "readability": 0.8,
+    "speed": 0.65
+  },
+  "response_text": "I'd be happy to help explain why your credit card transaction was flagged as suspicious.\n\nWhen you use your credit card in a foreign country, our system automatically monitors the transaction to ensure it's legitimate and not fraudulent. Sometimes, this can trigger a flag if the transaction seems unusual compared to your normal spending habits.\n\nThere are a few reasons why this might have happened:\n\n* The transaction was made in a country you don't often visit, which raised a red flag.\n* The type of purchase or amount spent was unusual for your account.\n* The transaction was made at an unusual time or in a location that's not typical for your spending patterns.\n\nDon't worry, this is just a precautionary measure to protect your account and prevent any potential fraud. We're not suggesting that you've done anything wrong, and we're here to help resolve the issue.\n\nTo verify the transaction, we may need to contact you to confirm that it was indeed you who made the purchase. This is a routine step to ensure your account security.\n\nIf you have any questions or concerns, please don't hesitate to reach out to us. We're here to help and want to make sure you can continue using your credit card with confidence.",
+  "performance_metrics": {
+    "api_response_time": 11.193,
+    "total_response_time": 11.193,
+    "input_tokens": 32,
+    "output_tokens": 305,
+    "total_tokens": 337,
+    "tokens_per_second": 30.11,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:22:59.516098"
+  },
+  "success": true
+}

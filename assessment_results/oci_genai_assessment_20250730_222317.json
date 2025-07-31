@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.94,
+  "components": {
+    "factual_accuracy": 2.61,
+    "readability": 3.6,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.57,
+    "readability": 0.72,
+    "speed": 0.65
+  },
+  "response_text": "The maximum 401(k) contribution limit for 2023 is $22,500. For individuals 50 years or older, an additional $7,500 catch-up contribution is allowed, making the total contribution limit $30,000.\n\nHowever, since you asked about 2025, I'll provide the most up-to-date information available. The IRS typically announces the new contribution limits for the upcoming year in October or November of the previous year. \n\nAs of my knowledge cutoff in 2023, the limits for 2025 have not been officially announced. But I can give you an idea of how the catch-up contribution works.\n\nThe catch-up contribution is an additional amount that individuals 50 years or older can contribute to their 401(k) accounts. This is designed to help older workers 'catch up' on their retirement savings. \n\nTo be eligible for the catch-up contribution, you must:\n1. Be 50 years or older by the end of the calendar year.\n2. Contribute the maximum allowed amount to your 401(k) account for the year ($22,500 in 2023).\n3. Have an employer-sponsored 401(k) plan that allows catch-up contributions.\n\nKeep in mind that the catch-up contribution limit may increase in future years due to inflation adjustments.\n\nFor the most accurate and up-to-date information, I recommend checking the official IRS website or consulting a financial advisor for the latest 401(k) contribution limits and catch-up contribution rules for 2025.",
+  "performance_metrics": {
+    "api_response_time": 10.617,
+    "total_response_time": 10.617,
+    "input_tokens": 29,
+    "output_tokens": 347,
+    "total_tokens": 376,
+    "tokens_per_second": 35.42,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:23:17.572397"
+  },
+  "success": true
+}

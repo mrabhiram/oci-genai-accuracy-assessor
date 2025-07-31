@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.29,
+  "components": {
+    "factual_accuracy": 1.43,
+    "readability": 3.4,
+    "speed": 3.75
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 0.86,
+    "readability": 0.68,
+    "speed": 0.75
+  },
+  "response_text": "Certainly! Here\u2019s a simple and polite explanation:\n\n\"Thank you for reaching out about your recent transaction. We flagged your credit card activity in [foreign country] as a precautionary measure to protect your account. Sometimes, transactions in unfamiliar locations can appear unusual, especially if it\u2019s the first time you\u2019ve used your card abroad or if the purchase was larger than your typical spending patterns.  \n\nWe take these steps to ensure your account\u2019s security and prevent unauthorized use. To help us confirm it was you, could you please verify the transaction details or let us know if you\u2019re currently traveling? We\u2019re happy to assist and ensure your card remains active and secure. Thank you for your understanding!\"  \n\nLet me know if you'd like further adjustments!",
+  "performance_metrics": {
+    "api_response_time": 4.734,
+    "total_response_time": 4.734,
+    "input_tokens": 32,
+    "output_tokens": 196,
+    "total_tokens": 228,
+    "tokens_per_second": 48.17,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:51:58.707866"
+  },
+  "success": true
+}

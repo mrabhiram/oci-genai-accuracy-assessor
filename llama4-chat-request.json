@@ -1,0 +1,20 @@
+{
+  "apiFormat": "GENERIC",
+  "messages": [
+    {
+      "role": "USER",
+      "content": [
+        {
+          "type": "TEXT",
+          "text": "Hello, how are you?"
+        }
+      ]
+    }
+  ],
+  "maxTokens": 4096,
+  "temperature": 1.0,
+  "frequencyPenalty": 0,
+  "presencePenalty": 0,
+  "topP": 1.0,
+  "topK": -1
+}

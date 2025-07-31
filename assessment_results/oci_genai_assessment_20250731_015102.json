@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.82,
+  "components": {
+    "factual_accuracy": 3.01,
+    "readability": 2.6,
+    "speed": 2.5
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.8,
+    "readability": 0.52,
+    "speed": 0.5
+  },
+  "response_text": "The 2024 American Heart Association (AHA) guidelines for hypertension management emphasize early intervention and a personalized approach. **First-line medications** include:  \n- **Thiazide diuretics** (e.g., chlorthalidone), particularly for older adults and those with heart failure.  \n- **Calcium channel blockers** (e.g., amlodipine), preferred for patients with angina or peripheral artery disease.  \n- **ACE inhibitors or ARBs** (e.g., lisinopril, losartan), especially for patients with diabetes, kidney disease, or heart failure.  \n\n**Lifestyle changes** remain foundational:  \n1. **Diet**: Adopt the DASH (Dietary Approaches to Stop Hypertension) diet, rich in fruits, vegetables, whole grains, and low-fat dairy, while reducing sodium intake to <2,300 mg/day (ideally <1,500 mg/day).  \n2. **Physical activity**: Aim for \u2265150 minutes/week of moderate-intensity exercise.  \n3. **Weight management**: Achieve/maintain a healthy BMI (<25 kg/m\u00b2).  \n4. **Limit alcohol**: \u22641 drink/day for women, \u22642 for men.  \n5. **Quit smoking**: Avoid tobacco to reduce cardiovascular risk.  \n6. **Sleep hygiene**: Address sleep apnea and aim for 7\u20139 hours of quality sleep nightly.  \n\nThe guidelines stress the importance of regular blood pressure monitoring and tailored treatment plans to achieve target levels (<130/80 mmHg for most adults).",
+  "performance_metrics": {
+    "api_response_time": 19.825,
+    "total_response_time": 19.825,
+    "input_tokens": 43,
+    "output_tokens": 333,
+    "total_tokens": 376,
+    "tokens_per_second": 18.97,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:51:02.884012"
+  },
+  "success": true
+}

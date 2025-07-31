@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.21,
+  "components": {
+    "factual_accuracy": 2.95,
+    "readability": 4.2,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.77,
+    "readability": 0.84,
+    "speed": 0.6
+  },
+  "response_text": "**Discharge Instructions: Laparoscopic Gallbladder Removal**\n\n**Congratulations!** You've had a successful surgery to remove your gallbladder. Now, it's time to focus on your recovery. Follow these instructions to ensure a smooth and safe recovery at home.\n\n**Important Reminders:**\n\n1. **Rest**: Take it easy for the next few days. Avoid heavy lifting, bending, or strenuous activities.\n2. **Pain Management**: Take your pain medication as directed by your doctor. If you have any questions or concerns, don't hesitate to call.\n3. **Wound Care**: Keep your incisions clean and dry. You can shower 24 hours after surgery, but avoid soaking in a bath or swimming until your doctor says it's okay.\n4. **Diet**: Stick to a bland diet for the next few days, including foods like crackers, toast, plain rice, and bananas. Avoid fatty or greasy foods, as they can cause discomfort.\n5. **Diabetes Management**: Continue to take your diabetes medications as directed by your doctor. Monitor your blood sugar levels closely, as they may be affected by your surgery and pain medications.\n\n**Specific Instructions for Diabetes Management:**\n\n* Check your blood sugar levels at least 4 times a day, or as directed by your doctor.\n* Keep a record of your blood sugar levels and share it with your doctor at your follow-up appointment.\n* If you take insulin, follow your usual dosing schedule. If you have any questions or concerns, call your doctor.\n* Be aware of the signs of high or low blood sugar, such as:\n\t+ High blood sugar: thirst, blurred vision, frequent urination\n\t+ Low blood sugar: shakiness, dizziness, sweating\n\n**Additional Tips:**\n\n* Drink plenty of water to stay hydrated.\n* Take small, frequent meals to avoid discomfort.\n* Avoid driving or operating heavy machinery until your doctor says it's okay.\n* If you experience any of the following symptoms, call your doctor right away:\n\t+ Severe abdominal pain\n\t+ Vomiting or nausea\n\t+ Fever over 101.5\u00b0F (38.6\u00b0C)\n\t+ Redness, swelling, or discharge from your incisions\n\t+ Difficulty breathing\n\n**Follow-up Appointment:**\n\n* Schedule a follow-up appointment with your doctor within 7-10 days after surgery.\n* Bring a list of any questions or concerns you may have.\n\n**Contact Information:**\n\n* If you have any questions or concerns, call your doctor's office at [phone number].\n* If you experience any severe symptoms, go to the emergency room or call 911.\n\n**Remember:**\n\n* Recovery takes time, so be patient with yourself.\n* Follow these instructions carefully to ensure a smooth and safe recovery.\n* Don't hesitate to reach out to your doctor if you have any questions or concerns.\n\nGet well soon!",
+  "performance_metrics": {
+    "api_response_time": 19.585,
+    "total_response_time": 19.585,
+    "input_tokens": 42,
+    "output_tokens": 662,
+    "total_tokens": 704,
+    "tokens_per_second": 35.95,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:20:21.115348"
+  },
+  "success": true
+}

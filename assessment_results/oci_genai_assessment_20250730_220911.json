@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.34,
+  "components": {
+    "factual_accuracy": 3.04,
+    "readability": 3.6,
+    "speed": 4.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.82,
+    "readability": 0.72,
+    "speed": 0.8
+  },
+  "response_text": "AI, or Artificial Intelligence, refers to the development of computer systems that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and decision-making. AI systems are designed to mimic cognitive functions such as understanding language, recognizing patterns, and adapting to new information.\n\nThere are different types of AI, often categorized based on their capabilities:\n\n1. **Narrow AI (Weak AI):** This type of AI is designed to perform a specific task or set of tasks. Examples include virtual assistants like Siri or Alexa, recommendation algorithms on streaming platforms, and image recognition software. Narrow AI operates within a limited scope and cannot generalize beyond its programming.\n\n2. **General AI (Strong AI):** This is a theoretical form of AI that would have the ability to perform any intellectual task a human can do. It would possess general cognitive abilities, allowing it to learn, reason, and adapt across a wide range of tasks without being limited to specific functions. General AI does not yet exist.\n\n3. **Superintelligent AI:** This is a speculative concept referring to AI that surpasses human intelligence in all areas, including creativity, problem-solving, and social skills. It raises ethical and existential concerns about control and the potential impact on humanity.\n\nAI is powered by various technologies and techniques, including:\n- **Machine Learning (ML):** A subset of AI where systems learn from data to improve their performance over time without being explicitly programmed.\n- **Deep Learning:** A type of ML that uses neural networks with many layers to process large amounts of data, often used in image and speech recognition.\n- **Natural Language Processing (NLP):** Enables machines to understand and generate human language, as seen in chatbots and translation tools.\n- **Computer Vision:** Allows machines to interpret and analyze visual information, such as identifying objects in images or videos.\n- **Robotics:** Combines AI with physical systems to create machines that can perform tasks autonomously or semi-autonomously.\n\nAI is widely used in industries like healthcare (e.g., diagnosing diseases), finance (e.g., fraud detection), education, entertainment, and transportation (e.g., self-driving cars). While AI offers numerous benefits, such as increased efficiency and innovation, it also raises concerns about privacy, job displacement, bias in algorithms, and the ethical implications of autonomous decision-making.\n\nIn summary, AI is a transformative technology that aims to replicate or enhance human intelligence in machines, with applications and implications that continue to evolve rapidly.",
+  "performance_metrics": {
+    "api_response_time": 6.465,
+    "total_response_time": 6.465,
+    "input_tokens": 2,
+    "output_tokens": 686,
+    "total_tokens": 688,
+    "tokens_per_second": 106.42,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:09:11.470765"
+  },
+  "success": true
+}

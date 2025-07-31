@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.32,
+  "components": {
+    "factual_accuracy": 2.79,
+    "readability": 5.0,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.67,
+    "readability": 1.0,
+    "speed": 0.65
+  },
+  "response_text": "**Discharge Instructions for Your Recovery After Gallbladder Surgery**\n\nHi! We\u2019re glad you\u2019re heading home after your laparoscopic gallbladder removal. This surgery used small cuts to take out your gallbladder. Since you also have diabetes, we\u2019ve made these instructions to help you heal safely. Follow them carefully, and call us if you have questions.\n\n**1. Taking Care of Your Cuts (Incisions):**\n- You have a few small cuts on your belly with stitches or tape. Keep them clean and dry.\n- Wash your hands before touching near the cuts. Don\u2019t rub or scratch them.\n- You can shower after 2 days, but don\u2019t soak in a bath or pool for 2 weeks.\n- Look at the cuts every day. If they get red, swollen, warm, or have pus (yellow stuff), call your doctor right away.\n- Don\u2019t put lotion or cream on the cuts until they\u2019re fully healed (about 2 weeks).\n\n**2. Pain and Medicine:**\n- You might feel sore in your belly or shoulders for a few days. This is normal.\n- Take the pain medicine we gave you as told on the bottle. Don\u2019t take more than it says.\n- If the pain gets worse or doesn\u2019t go away after a few days, call us.\n- Don\u2019t drive or use big machines while taking strong pain medicine\u2014it can make you sleepy.\n\n**3. Eating and Drinking (With Diabetes in Mind):**\n- Start with light foods like soup, toast, or applesauce for the first day or two.\n- Slowly go back to your normal foods, but skip fatty or greasy stuff (like fries or pizza) for a few weeks. These can upset your stomach.\n- Since you have diabetes, keep checking your blood sugar. Surgery can mess with it a little.\n- Eat small meals and stick to your diabetes meal plan. Don\u2019t skip meals, and keep snacks handy if your sugar gets low.\n- Drink lots of water, but avoid sugary drinks unless your blood sugar is low and you need a quick fix.\n- If you feel sick to your stomach or throw up, stop eating and call us.\n\n**4. Moving Around:**\n- Rest a lot for the first few days, but don\u2019t stay in bed all day.\n- Walk a little bit inside your house to keep your blood moving. Start with short walks and do more each day.\n- Don\u2019t lift heavy things (like bags over 10 pounds) for 4-6 weeks. Ask for help with chores.\n- No hard exercise (like running or sports) until your doctor says it\u2019s okay.\n\n**5. Watching for Problems:**\nCall your doctor or go to the hospital right away if you have:\n- A fever over 100.4\u00b0F (you can check with a thermometer).\n- Bad pain in your belly that doesn\u2019t get better with medicine.\n- Yellow skin or eyes (this is called jaundice).\n- Throwing up a lot or can\u2019t keep food down.\n- Blood sugar that\u2019s too high or too low and won\u2019t fix with your usual steps.\n- Any cut that looks bad or won\u2019t stop bleeding.\n\n**6. Follow-Up and Diabetes Care:**\n- Come back to see your doctor in 1-2 weeks. We\u2019ll check how you\u2019re healing. Call to make sure of the date and time.\n- Keep taking your diabetes medicine or insulin as your doctor told you. If your blood sugar acts weird, let us know.\n- Write down your blood sugar numbers every day to show your doctor later.\n\n**7. When to Call for Help:**\nIf anything feels wrong or you\u2019re worried, don\u2019t wait. Call your doctor at [insert phone number] or go to the nearest hospital. We\u2019re here to help!\n\n**Take It Easy and Heal Well!**\nHealing takes time, so be kind to yourself. Rest when you\u2019re tired, eat healthy, and follow these steps. If you have questions, write them down and ask us. We want you to feel better soon!\n\n[Doctor\u2019s Name and Contact Info]\n[Date of Discharge]",
+  "performance_metrics": {
+    "api_response_time": 14.167,
+    "total_response_time": 14.167,
+    "input_tokens": 42,
+    "output_tokens": 871,
+    "total_tokens": 913,
+    "tokens_per_second": 64.45,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:26:22.086813"
+  },
+  "success": true
+}

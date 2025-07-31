@@ -1,0 +1,25 @@
+{
+  "overall_score": 1.66,
+  "components": {
+    "factual_accuracy": 0.89,
+    "readability": 2.6,
+    "speed": 3.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 0.54,
+    "readability": 0.52,
+    "speed": 0.6
+  },
+  "response_text": "Here are some ongoing phase III clinical trials for CAR-T therapy in multiple myeloma:\n\n1. **ORCHESTRA Study (NCT04001067)**: Evaluating the efficacy and safety of ide-cel (bb2121) in patients with relapsed and refractory multiple myeloma.\n2. **CARTITUDE-4 Study (NCT04181827)**: Assessing the efficacy and safety of ciltacabtagene autoleucel (cilta-cel) in patients with relapsed and refractory multiple myeloma.\n3. **PLATFORM Study (NCT04309981)**: Investigating the efficacy and safety of platform-based CAR-T cell therapy (PCAR-019) in patients with relapsed and refractory multiple myeloma.\n4. **KarMMa-3 Study (NCT04214222)**: Evaluating the efficacy and safety of ide-cel (bb2121) in combination with pomalidomide and dexamethasone in patients with relapsed and refractory multiple myeloma.\n5. **MajesTEC-1 Study (NCT04591717)**: Assessing the efficacy and safety of TC-210 (a CAR-T cell therapy) in patients with relapsed and refractory multiple myeloma.\n\nPlease note that:\n\n* These trials may have changed status or been updated since my knowledge cutoff date.\n* This list may not be exhaustive, as there may be other ongoing phase III clinical trials for CAR-T therapy in multiple myeloma that are not publicly listed or have not been updated.\n* Patients should consult with their healthcare providers and clinical trial registries (e.g., ClinicalTrials.gov) for the most up-to-date information on these trials and to determine eligibility.\n\nAdditionally, you can search for clinical trials on the following registries:\n\n* ClinicalTrials.gov (US National Library of Medicine)\n* EU Clinical Trials Register (European Medicines Agency)\n* ISRCTN Registry (Biomed Central)\n\nThese registries provide information on ongoing and completed clinical trials, including those related to CAR-T therapy in multiple myeloma.",
+  "performance_metrics": {
+    "api_response_time": 15.173,
+    "total_response_time": 15.173,
+    "input_tokens": 23,
+    "output_tokens": 455,
+    "total_tokens": 478,
+    "tokens_per_second": 31.5,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:21:38.254769"
+  },
+  "success": true
+}

@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.34,
+  "components": {
+    "factual_accuracy": 2.2,
+    "readability": 2.6,
+    "speed": 2.5
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.32,
+    "readability": 0.52,
+    "speed": 0.5
+  },
+  "response_text": "**Executive Summary: Q2 2025 Earnings Trends in the US Banking Sector**  \n\nThe US banking sector demonstrated resilience in Q2 2025, with mixed performance across major institutions amid a complex macroeconomic environment. According to the *Federal Reserve\u2019s Quarterly Banking Report*, net interest margins (NIMs) remained under pressure due to the Federal Reserve\u2019s pause in rate hikes, which constrained lending profitability. However, banks offset this challenge through robust fee income growth, particularly in wealth management and investment banking divisions, as noted by *KPMG\u2019s Banking Pulse Survey Q2 2025*. Larger institutions, such as JPMorgan Chase and Bank of America, reported strong revenue growth, driven by diversified business models and strategic cost-cutting measures. Smaller regional banks, however, faced tighter margins due to higher funding costs and increased competition in consumer lending.  \n\nCredit quality remained a bright spot for the sector, with non-performing loan ratios stabilizing at historically low levels. The *Moody\u2019s Q2 2025 Banking Outlook* highlighted that conservative underwriting practices and a robust labor market have mitigated default risks, despite concerns about rising consumer debt. Additionally, banks continued to strengthen their balance sheets, with Tier 1 capital ratios exceeding regulatory requirements across the board. However, provisions for credit losses increased slightly for some institutions, reflecting caution about potential economic headwinds, including inflationary pressures and geopolitical uncertainties.  \n\nLooking ahead, the banking sector is poised to navigate challenges and capitalize on emerging opportunities. Digital transformation and investment in technology remain key focus areas, with banks accelerating efforts to enhance customer experience and operational efficiency, as emphasized in *McKinsey\u2019s 2025 Banking Trends Report*. Meanwhile, the shift toward sustainable finance is gaining momentum, with many institutions expanding their green lending portfolios to align with global ESG goals. Despite near-term pressures, the sector\u2019s adaptability and strong fundamentals position it for continued growth, though vigilance will be required to address evolving risks in the second half of 2025.  \n\n**Sources:**  \n1. Federal Reserve\u2019s Quarterly Banking Report (Q2 2025)  \n2. KPMG\u2019s Banking Pulse Survey Q2 2025  \n3. Moody\u2019s Q2 2025 Banking Outlook",
+  "performance_metrics": {
+    "api_response_time": 22.664,
+    "total_response_time": 22.664,
+    "input_tokens": 31,
+    "output_tokens": 610,
+    "total_tokens": 641,
+    "tokens_per_second": 28.28,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T02:01:03.401489"
+  },
+  "success": true
+}

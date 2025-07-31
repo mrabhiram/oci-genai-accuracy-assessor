@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.82,
+  "components": {
+    "factual_accuracy": 2.58,
+    "readability": 3.6,
+    "speed": 2.75
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.55,
+    "readability": 0.72,
+    "speed": 0.55
+  },
+  "response_text": "According to the Centers for Medicare and Medicaid Services (CMS), a 68-year-old on Medicare Part B may be eligible for annual lung cancer screening with low-dose computed tomography (LDCT) if they meet certain criteria.\n\nThe CMS policy on lung cancer screening with LDCT is outlined in the National Coverage Determination (NCD) for Lung Cancer Screening with Low Dose Computed Tomography (LDCT) (210.14), which was implemented on February 5, 2015.\n\nTo be eligible for coverage, the beneficiary must meet the following criteria:\n\n1. Be asymptomatic (i.e., have no signs or symptoms of lung cancer);\n2. Be a current smoker or have quit smoking within the last 15 years;\n3. Have a 30 pack-year smoking history (i.e., have smoked at least 1 pack of cigarettes per day for 30 years or 2 packs per day for 15 years);\n4. Be between 50 and 77 years old (inclusive) for Medicare coverage (note: this age range was updated from 55-74 to 50-80 in 2022, but the upper age limit remains 77 for those already enrolled in Medicare Part B before the update, however those who turn 50 after enrollment may be covered up to age 80); and\n5. Receive a written order from a physician or qualified non-physician practitioner (NPP) that meets specific requirements.\n\nThe United States Preventive Services Task Force (USPSTF) also recommends annual lung cancer screening with LDCT for adults aged 50 to 80 years who have a 20 pack-year smoking history and currently smoke or have quit within the past 15 years.\n\nSources:\n- Centers for Medicare and Medicaid Services. (2022). National Coverage Determination (NCD) for Lung Cancer Screening with Low Dose Computed Tomography (LDCT) (210.14).\n- Centers for Medicare and Medicaid Services. (2022). Medicare National Coverage Determinations Manual.\n- United States Preventive Services Task Force. (2021). Lung Cancer Screening.",
+  "performance_metrics": {
+    "api_response_time": 17.493,
+    "total_response_time": 17.493,
+    "input_tokens": 29,
+    "output_tokens": 462,
+    "total_tokens": 491,
+    "tokens_per_second": 28.07,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:21:16.515473"
+  },
+  "success": true
+}

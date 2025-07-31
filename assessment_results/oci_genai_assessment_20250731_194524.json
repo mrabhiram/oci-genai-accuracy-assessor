@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.38,
+  "components": {
+    "factual_accuracy": 3.35,
+    "readability": 3.6,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 2.01,
+    "readability": 0.72,
+    "speed": 0.65
+  },
+  "response_text": "The capital of Japan is **Tokyo**. It is the country's political, economic, and cultural center, and one of the most populous metropolitan areas in the world. Tokyo is known for its blend of traditional and modern elements, with historic temples and shrines alongside cutting-edge technology and architecture.",
+  "performance_metrics": {
+    "api_response_time": 4.401,
+    "total_response_time": 4.401,
+    "input_tokens": 7,
+    "output_tokens": 77,
+    "total_tokens": 84,
+    "tokens_per_second": 19.09,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T19:45:24.756897"
+  },
+  "success": true
+}

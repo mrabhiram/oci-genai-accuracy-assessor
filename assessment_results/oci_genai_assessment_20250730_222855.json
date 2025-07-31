@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.34,
+  "components": {
+    "factual_accuracy": 2.89,
+    "readability": 4.0,
+    "speed": 4.0
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.74,
+    "readability": 0.8,
+    "speed": 0.8
+  },
+  "response_text": "Dear Customer,\n\nWe wanted to let you know that your recent credit card transaction in a foreign country was flagged as suspicious. This is a standard security measure we take to protect your account from potential fraud. Transactions made outside your usual location can sometimes trigger this alert, as it may indicate unauthorized use.\n\nThere\u2019s no need to worry! We\u2019re just being cautious to keep your account safe. To resolve this, please confirm whether this transaction was made by you. You can do so by calling us at [customer service number] or replying to this message. If it was indeed your purchase, we\u2019ll ensure the transaction goes through smoothly.\n\nIf you have any questions or concerns, we\u2019re happy to assist. Thank you for your understanding, and we apologize for any inconvenience this may have caused.\n\nBest regards,  \n[Your Name]  \n[Bank/Credit Card Company]",
+  "performance_metrics": {
+    "api_response_time": 4.002,
+    "total_response_time": 4.003,
+    "input_tokens": 32,
+    "output_tokens": 219,
+    "total_tokens": 251,
+    "tokens_per_second": 62.71,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-30T22:28:55.748494"
+  },
+  "success": true
+}

@@ -1,0 +1,25 @@
+{
+  "overall_score": 1.72,
+  "components": {
+    "factual_accuracy": 1.16,
+    "readability": 2.6,
+    "speed": 2.5
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 0.7,
+    "readability": 0.52,
+    "speed": 0.5
+  },
+  "response_text": "Here are some ongoing **Phase III clinical trials** for **CAR-T therapy in multiple myeloma**, along with their trial IDs (as of October 2023). These trials are investigating the safety and efficacy of CAR-T therapies in patients with relapsed/refractory multiple myeloma (RRMM):\n\n---\n\n### 1. **CARTITUDE-4 (NCT04181827)**  \n   - **CAR-T Therapy:** Cilta-cel (Ciltacabtagene autoleucel, also known as JNJ-4528 or LCAR-B38M)  \n   - **Sponsor:** Janssen Research & Development, LLC  \n   - **Objective:** Compare cilta-cel to standard of care (Pomalidomide, Bortezomib, or Daratumumab) in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 2. **CARTITUDE-5 (NCT04923893)**  \n   - **CAR-T Therapy:** Cilta-cel (Ciltacabtagene autoleucel)  \n   - **Sponsor:** Janssen Research & Development, LLC  \n   - **Objective:** Evaluate cilta-cel in combination with immunomodulatory drugs (IMiDs) in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 3. **KarMMa-3 (NCT03651128)**  \n   - **CAR-T Therapy:** Idecabtagene vicleucel (ide-cel, also known as bb2121)  \n   - **Sponsor:** Bristol Myers Squibb  \n   - **Objective:** Compare ide-cel to standard triplet therapies (e.g., Pomalidomide, Bortezomib, or Daratumumab) in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 4. **LEGEND-3 (NCT04649858)**  \n   - **CAR-T Therapy:** Cibisatamab (also known as LCART-BCMA or JNJ-68284528)  \n   - **Sponsor:** Legend Biotech  \n   - **Objective:** Evaluate cibisatamab, an off-the-shelf BCMA-targeted CAR-T therapy, in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 5. **P-DRiP (NCT04728262)**  \n   - **CAR-T Therapy:** Orvacabtagene autoleucel (orva-cel, also known as P-BCMA-101)  \n   - **Sponsor:** Poseida Therapeutics, Inc.  \n   - **Objective:** Evaluate orva-cel, a next-generation CAR-T therapy, in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 6. **CERINNO (NCT05214442)**  \n   - **CAR-T Therapy:** CT053, a BCMA-targeted CAR-T therapy  \n   - **Sponsor:** CARsgen Therapeutics  \n   - **Objective:** Evaluate CT053 in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\n### 7. **EVOLVE (NCT04963735)**  \n   - **CAR-T Therapy:** EvoT2391, a BCMA/CD19 dual-targeted CAR-T therapy  \n   - **Sponsor:** TCR\u00b2 Therapeutics Inc.  \n   - **Objective:** Evaluate EvoT2391 in patients with RRMM.  \n   - **Status:** Active, recruiting.  \n\n---\n\nFor the most up-to-date information, refer to **ClinicalTrials.gov** or the sponsoring companies' official announcements, as trial statuses and details may change over time.",
+  "performance_metrics": {
+    "api_response_time": 22.584,
+    "total_response_time": 22.585,
+    "input_tokens": 23,
+    "output_tokens": 653,
+    "total_tokens": 676,
+    "tokens_per_second": 29.93,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyapnibwg42qjhwaxrlqfpreueirtwghiwvv2whsnwmnlva",
+    "timestamp": "2025-07-31T01:59:25.347097"
+  },
+  "success": true
+}

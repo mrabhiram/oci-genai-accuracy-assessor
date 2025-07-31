@@ -1,0 +1,25 @@
+{
+  "overall_score": 2.41,
+  "components": {
+    "factual_accuracy": 2.47,
+    "readability": 1.4,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 1.48,
+    "readability": 0.28,
+    "speed": 0.65
+  },
+  "response_text": "The 2024 American Heart Association (AHA) guidelines for hypertension management emphasize a comprehensive approach to blood pressure control. For first-line treatment, the guidelines recommend the following medications:\n\n* Angiotensin-converting enzyme inhibitors (ACE inhibitors) or angiotensin receptor blockers (ARBs) for most patients\n* Calcium channel blockers (CCBs) or thiazide diuretics as alternative options\n\nIn addition to medication, the guidelines stress the importance of lifestyle changes, including:\n\n* Maintaining a healthy weight and body mass index (BMI)\n* Engaging in regular physical activity, such as at least 150 minutes of moderate-intensity exercise per week\n* Following a balanced diet, such as the DASH (Dietary Approaches to Stop Hypertension) diet, which emphasizes fruits, vegetables, whole grains, and low-fat dairy products\n* Limiting sodium intake to less than 2,300 milligrams per day\n* Getting adequate sleep and managing stress through techniques like meditation or yoga.\n\nBy combining these lifestyle changes with first-line medications, patients can effectively manage their hypertension and reduce their risk of cardiovascular disease.",
+  "performance_metrics": {
+    "api_response_time": 8.421,
+    "total_response_time": 8.421,
+    "input_tokens": 43,
+    "output_tokens": 293,
+    "total_tokens": 336,
+    "tokens_per_second": 39.9,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceyajqi26fkxly6qje5ysvezzrypapl7ujdnqfjq6hzo2loq",
+    "timestamp": "2025-07-30T22:19:49.459607"
+  },
+  "success": true
+}

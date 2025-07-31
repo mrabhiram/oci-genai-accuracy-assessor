@@ -1,0 +1,25 @@
+{
+  "overall_score": 3.19,
+  "components": {
+    "factual_accuracy": 3.37,
+    "readability": 2.6,
+    "speed": 3.25
+  },
+  "weighted_contributions": {
+    "factual_accuracy": 2.02,
+    "readability": 0.52,
+    "speed": 0.65
+  },
+  "response_text": "The full form of AI is **Artificial Intelligence**. It refers to the simulation of human intelligence in machines that are programmed to think, learn, and perform tasks that typically require human intelligence, such as problem-solving, decision-making, and language understanding.",
+  "performance_metrics": {
+    "api_response_time": 3.852,
+    "total_response_time": 3.852,
+    "input_tokens": 6,
+    "output_tokens": 70,
+    "total_tokens": 76,
+    "tokens_per_second": 19.73,
+    "model_id": "ocid1.generativeaimodel.oc1.us-chicago-1.amaaaaaask7dceya6dvgvvj3ovy4lerdl6fvx525x3yweacnrgn4ryfwwcoq",
+    "timestamp": "2025-07-31T19:44:25.917567"
+  },
+  "success": true
+}
